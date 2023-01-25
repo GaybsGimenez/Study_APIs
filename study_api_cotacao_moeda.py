@@ -1,6 +1,6 @@
 # API Exemplo
 
-### Cotação do dólar de forma automática e atualizada
+### Cotação do dólar, real e bitcoin de forma automática e atualizada
 
 ### Usamos o awesome api: https://docs.awesomeapi.com.br/
         
